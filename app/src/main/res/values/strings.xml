@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RootScope</string>
+    <string name="scan">Сканировать</string>
+    <string name="clear">Очистить</string>
+    <string name="copy">Копировать лог</string>
+    <string name="hint">Только чтение. Никаких записей в память/ядро.</string>
+</resources>
